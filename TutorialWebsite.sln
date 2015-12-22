@@ -7,7 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{29C583B9-8DC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5FE12F76-A4AA-460D-BB28-521A441779C7}"
 	ProjectSection(SolutionItems) = preProject
+		DnuBuild.ps1 = DnuBuild.ps1
 		global.json = global.json
+		Prebuild.ps1 = Prebuild.ps1
+		PrePublishWebJob.ps1 = PrePublishWebJob.ps1
+		PublishWebsite.ps1 = PublishWebsite.ps1
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TutorialWebsite", "src\TutorialWebsite\TutorialWebsite.xproj", "{DD4C8259-DCAC-408B-8214-FE9CE685B1C6}"
